@@ -1,6 +1,5 @@
 import 'package:example_food_app/models/menu_model.dart';
 import 'package:example_food_app/models/product_model.dart';
-import 'package:example_food_app/modules/home/components/icon_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 

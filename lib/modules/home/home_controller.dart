@@ -1,7 +1,6 @@
 import 'package:example_food_app/data/fake_data.dart';
 import 'package:example_food_app/models/menu_model.dart';
 import 'package:example_food_app/models/product_model.dart';
-import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class HomeController extends GetxController with StateMixin<List<MenuModel>> {
